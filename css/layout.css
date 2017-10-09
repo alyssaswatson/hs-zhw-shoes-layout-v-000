@@ -38,5 +38,6 @@
 }
 
 .col-3 {
+  float: right;
   width: 33%;
 }
